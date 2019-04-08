@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-78BA9B6948C79EF6E92FEA90F86455FD_0000</CrashGUID>
+		<ProcessId>6764</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<GameName>UE4-Prototypes</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<Symbols>**UE4*Release-4.21-CL-4753647-Win64-Development</Symbols>
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.21.2-4753647+++UE4+Release-4.21</EngineVersion>
+		<CommandLine>&quot;C:/Users/simonsb/Documents/GitHub/Level-Design-UE-Prototyping/Prototypes 4.21/Prototypes.uproject&quot;</CommandLine>
+		<LanguageLCID>3082</LanguageLCID>
+		<AppDefaultLocale>es-ES</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.21-CL-4753647</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>simonsb</UserName>
+		<BaseDir>C:/Users/simonsb/Documents/UE/UE_4.21/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>C:/Users/simonsb/Documents/UE/UE_4.21/</RootDir>
+		<MachineId>96A78F084FD86881187C4FA70A8A9AF4</MachineId>
+		<LoginId>96a78f084fd86881187c4fa70a8a9af4</LoginId>
+		<EpicAccountId>ea44f4d954334966a095a016fb91230e</EpicAccountId>
+		<CallStack />
+		<PCallStack>UE4Editor-Core 0x00000000c1f50000 + 4fc924 UE4Editor-Core 0x00000000c1f50000 + f4b74 UE4Editor-AssetRegistry 0x00000000e7900000 + 13ead UE4Editor-AssetRegistry 0x00000000e7900000 + 1b25b UE4Editor-AssetRegistry 0x00000000e7900000 + 563ba UE4Editor-Core 0x00000000c1f50000 + 4fc500 UE4Editor-Core 0x00000000c1f50000 + 4ecac1 KERNEL32 0x000000001b1d0000 + 13dc4 ntdll 0x000000001b8f0000 + 73691</PCallStack>
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<ErrorMessage>Assertion failed: NewPosition &lt;= FileSize [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsPlatformFile.cpp] [Line: 513]</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 1050 Ti</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<GameStateName />
+		<MemoryStats.TotalPhysical>17079078912</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>10600071168</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140731972243456</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>430379008</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>430379008</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>422412288</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>422420480</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636903229505900000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
